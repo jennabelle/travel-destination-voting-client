@@ -1,6 +1,6 @@
 # Travel Destination Voting (Client)
 
-A web app for users to live vote their favorite travel destination.
+A web app for users to vote for their favorite travel destination.
 
 ## Installing Dependencies
 
