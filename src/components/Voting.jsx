@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import Winner from './Winner';
 import Vote from './Vote';
 
-const Voting = React.createClass({
+export const Voting = React.createClass({
   mixins: [PureRenderMixin],
   render: function() {
     return <div>
