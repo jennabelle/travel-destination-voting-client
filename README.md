@@ -10,7 +10,7 @@ Install dependencies:
 
 Start server and create redux store:
 
-    npm run start
+    webpack-dev-server
 
 ## Tech Stack
     react
